@@ -14,7 +14,7 @@ document.write(b + c + "<br/>");
 
 //重复
 var d = "he";
-console.log(d.repeat(4));
+console.log(d.repeat(4)); //hehehehe
 
 var e = "hello";
-console.log(e.includes(d));
+console.log(e.includes(d)); //true
